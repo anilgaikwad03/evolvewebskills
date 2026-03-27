@@ -237,13 +237,13 @@ const testimonialsData = [
         name: "Ajay Deshmukh",
         role: "Java Developer",
         image: "./images/empty.png",
-        text: "The Java Full Stack course at EvolveIT was a game-changer for my career. The instructors are industry experts, and the live projects gave me the confidence to crack interviews. I got placed with a 6.5 LPA package!"
+        text: "The Java Full Stack course at Evolve Web Skills was a game-changer for my career. The instructors are industry experts, and the live projects gave me the confidence to crack interviews. I got placed with a 6.5 LPA package!"
     },
     {
         name: "Neha Patil",
         role: "Frontend Developer",
         image: "./images/empty.png",
-        text: "Best decision I ever made! The curriculum is up-to-date with industry requirements, and the placement team's support was incredible. Within 2 months of completing the course, I secured a position at TCS."
+        text: "Best decision I ever made! The curriculum is up-to-date with industry requirements, and the placement team's support was incredible. Within 6 months of completing the course, I secured a position at reputed company."
     },
     {
         name: "Rohit Jadhav",
