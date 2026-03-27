@@ -119,8 +119,8 @@ const coursesData = [
         students: "500+",
         projects: "5 Projects",
         image: "./images/JFSD.png",
-        price: "19999",
-        originalPrice: "30000",
+        price: "19,999",
+        originalPrice: "30,000",
         badge: "Most Popular"
     },
     {
@@ -130,8 +130,8 @@ const coursesData = [
         students: "300+",
         projects: "2 Projects",
         image: "./images/CoreJava.png",
-        price: "2499",
-        originalPrice: "5000",
+        price: "2,499",
+        originalPrice: "4,000",
         badge: "Beginner Friendly"
     },
     {
@@ -141,8 +141,8 @@ const coursesData = [
         students: "250+",
         projects: "2 Projects",
         image: "./images/AdvancedJava.png",
-        price: "2499",
-        originalPrice: "5000",
+        price: "2,499",
+        originalPrice: "4,000",
         badge: "Intermediate"
     },
     {
@@ -152,8 +152,8 @@ const coursesData = [
         students: "200+",
         projects: "3 Projects",
         image: "./images/SBMS.png",
-        price: "4999",
-        originalPrice: "9000",
+        price: "4,999",
+        originalPrice: "8,000",
         badge: "Advanced"
     },
     {
@@ -163,8 +163,8 @@ const coursesData = [
         students: "400+",
         projects: "4 Projects",
         image: "./images/WebDev.png",
-        price: "2999",
-        originalPrice: "5000",
+        price: "2,999",
+        originalPrice: "5,000",
         badge: "Trending"
     },
     {
@@ -174,8 +174,8 @@ const coursesData = [
         students: "350+",
         projects: "3 Projects",
         image: "./images/ReactJS.png",
-        price: "2999",
-        originalPrice: "5000",
+        price: "2,999",
+        originalPrice: "5,000",
         badge: "In Demand"
     },
     {
@@ -185,8 +185,8 @@ const coursesData = [
         students: "200+",
         projects: "1 Project",
         image: "./images/Oracle.png",
-        price: "1999",
-        originalPrice: "3000",
+        price: "1,999",
+        originalPrice: "3,000",
         badge: "Essential"
     },
     {
@@ -228,27 +228,27 @@ const placementData = [
     { company: "Infosys", name: "Ajay Deshmukh", role: "Software Engineer", package: "6.5 LPA" },
     { company: "TCS", name: "Neha Patil", role: "Frontend Developer", package: "5.8 LPA" },
     { company: "Wipro", name: "Rohit Jadhav", role: "Java Developer", package: "7.2 LPA" },
-    { company: "Accenture", name: "Priya Sharma", role: "Full Stack Developer", package: "8.5 LPA" }
+    { company: "Accenture", name: "Priya Sharma", role: "Full Stack Developer", package: "4.5 LPA" }
 ];
 
 // ========== TESTIMONIALS DATA ==========
 const testimonialsData = [
     {
         name: "Ajay Deshmukh",
-        role: "Software Engineer at Infosys",
-        image: "https://randomuser.me/api/portraits/men/32.jpg",
+        role: "Java Developer",
+        image: "./images/empty.png",
         text: "The Java Full Stack course at EvolveIT was a game-changer for my career. The instructors are industry experts, and the live projects gave me the confidence to crack interviews. I got placed with a 6.5 LPA package!"
     },
     {
         name: "Neha Patil",
-        role: "Frontend Developer at TCS",
-        image: "https://randomuser.me/api/portraits/women/44.jpg",
+        role: "Frontend Developer",
+        image: "./images/empty.png",
         text: "Best decision I ever made! The curriculum is up-to-date with industry requirements, and the placement team's support was incredible. Within 2 months of completing the course, I secured a position at TCS."
     },
     {
         name: "Rohit Jadhav",
-        role: "Java Developer at Wipro",
-        image: "https://randomuser.me/api/portraits/men/45.jpg",
+        role: "Software Engineer",
+        image: "./images/empty.png",
         text: "Small batch sizes ensure personalized attention. The mentors helped me build a strong portfolio, and the interview preparation sessions were top-notch. Highly recommended for anyone serious about IT careers."
     }
 ];
