@@ -119,8 +119,8 @@ const coursesData = [
         students: "500+",
         projects: "5 Projects",
         image: "./images/JFSD.png",
-        price: "19,999",
-        originalPrice: "30,000",
+        price: "19999",
+        originalPrice: "30000",
         badge: "Most Popular"
     },
     {
@@ -130,8 +130,8 @@ const coursesData = [
         students: "300+",
         projects: "2 Projects",
         image: "./images/CoreJava.png",
-        price: "2,499",
-        originalPrice: "4,000",
+        price: "2499",
+        originalPrice: "4000",
         badge: "Beginner Friendly"
     },
     {
@@ -141,8 +141,8 @@ const coursesData = [
         students: "250+",
         projects: "2 Projects",
         image: "./images/AdvancedJava.png",
-        price: "2,499",
-        originalPrice: "4,000",
+        price: "2499",
+        originalPrice: "4000",
         badge: "Intermediate"
     },
     {
@@ -152,8 +152,8 @@ const coursesData = [
         students: "200+",
         projects: "3 Projects",
         image: "./images/SBMS.png",
-        price: "4,999",
-        originalPrice: "8,000",
+        price: "4999",
+        originalPrice: "8000",
         badge: "Advanced"
     },
     {
@@ -163,8 +163,8 @@ const coursesData = [
         students: "400+",
         projects: "4 Projects",
         image: "./images/WebDev.png",
-        price: "2,999",
-        originalPrice: "5,000",
+        price: "2999",
+        originalPrice: "5000",
         badge: "Trending"
     },
     {
@@ -174,8 +174,8 @@ const coursesData = [
         students: "350+",
         projects: "3 Projects",
         image: "./images/ReactJS.png",
-        price: "2,999",
-        originalPrice: "5,000",
+        price: "2999",
+        originalPrice: "5000",
         badge: "In Demand"
     },
     {
@@ -185,8 +185,8 @@ const coursesData = [
         students: "200+",
         projects: "1 Project",
         image: "./images/Oracle.png",
-        price: "1,999",
-        originalPrice: "3,000",
+        price: "1999",
+        originalPrice: "3000",
         badge: "Essential"
     },
     {
@@ -225,9 +225,9 @@ const servicesData = [
 
 // ========== PLACEMENT DATA ==========
 const placementData = [
-    { company: "Infosys", name: "Ajay Deshmukh", role: "Software Engineer", package: "6.5 LPA" },
-    { company: "TCS", name: "Neha Patil", role: "Frontend Developer", package: "5.8 LPA" },
-    { company: "Wipro", name: "Rohit Jadhav", role: "Java Developer", package: "7.2 LPA" },
+    { company: "Infosys", name: "Ajay Deshmukh", role: "Software Engineer", package: "4.5 LPA" },
+    { company: "TCS", name: "Neha Patil", role: "Frontend Developer", package: "3.8 LPA" },
+    { company: "Wipro", name: "Rohit Jadhav", role: "Java Developer", package: "4.2 LPA" },
     { company: "Accenture", name: "Priya Sharma", role: "Full Stack Developer", package: "4.5 LPA" }
 ];
 
