@@ -352,8 +352,11 @@ function renderCourses() {
     `).join('');
     
     document.querySelectorAll('.download-btn').forEach(btn => {
-        btn.addEventListener('click', () => showNotification('📚 Curriculum will be shared on WhatsApp. Please contact us for details.', 'info'));
+    btn.addEventListener('click', () => {
+        const course = btn.dataset.course;
+        window.open('./courses/JFSD.pdf', '_blank');
     });
+});
     document.querySelectorAll('.whatsapp-btn').forEach(btn => {
         btn.addEventListener('click', () => {
             const course = btn.dataset.course;
